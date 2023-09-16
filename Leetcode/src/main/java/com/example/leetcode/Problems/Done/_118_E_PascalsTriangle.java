@@ -1,9 +1,9 @@
-package com.example.leetcode.Problems;
+package com.example.leetcode.Problems.Done;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class _118_PascalsTriangle {
+public class _118_E_PascalsTriangle {
 
     public static void main(String[] args) {
         System.out.println(generate(5));

@@ -1,8 +1,8 @@
-package com.example.leetcode.Problems;
+package com.example.leetcode.Problems.VeryHardForMe;
 
 import java.util.*;
 
-public class _2790_MaximumNumberOfGroupsWithIncreasingLength {
+public class _2790_H_MaximumNumberOfGroupsWithIncreasingLength {
 
 
     public static void main(String[] args) {

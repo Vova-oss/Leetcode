@@ -1,11 +1,11 @@
-package com.example.leetcode.Problems;
+package com.example.leetcode.Problems.Done;
 
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-public class _1282_GroupThePeopleGivenTheGroupSizeTheyBelongTo {
+public class _1282_M_GroupThePeopleGivenTheGroupSizeTheyBelongTo {
 
     public static void main(String[] args) {
         System.out.println(groupThePeople(new int[]{3,3,3,3,3,1,3}));

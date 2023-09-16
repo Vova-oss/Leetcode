@@ -1,9 +1,9 @@
-package com.example.leetcode.Problems;
+package com.example.leetcode.Problems.Done;
 
 import java.util.HashSet;
 import java.util.Set;
 
-public class _141_LinkedListCycle {
+public class _141_E_LinkedListCycle {
 
     public static void main(String[] args) {
         ListNode fifth = new ListNode(5);

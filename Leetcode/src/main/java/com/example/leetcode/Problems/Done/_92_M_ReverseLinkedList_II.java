@@ -1,6 +1,6 @@
-package com.example.leetcode.Problems;
+package com.example.leetcode.Problems.Done;
 
-public class _92_ReverseLinkedListII {
+public class _92_M_ReverseLinkedList_II {
 
     public static void main(String[] args) {
 //        ListNode fifth = new ListNode(5);

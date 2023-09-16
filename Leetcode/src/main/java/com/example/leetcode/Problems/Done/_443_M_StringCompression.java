@@ -1,6 +1,6 @@
-package com.example.leetcode.Problems;
+package com.example.leetcode.Problems.Done;
 
-public class _443_StringCompression {
+public class _443_M_StringCompression {
 
     public static void main(String[] args) {
 //        System.out.println(compress(new char[]{'a','a','b','b','c','c','c'}));

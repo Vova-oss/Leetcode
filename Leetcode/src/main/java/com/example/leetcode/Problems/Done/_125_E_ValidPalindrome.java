@@ -1,6 +1,6 @@
-package com.example.leetcode.Problems;
+package com.example.leetcode.Problems.Done;
 
-public class _125_ValidPalindrome {
+public class _125_E_ValidPalindrome {
 
     public static void main(String[] args) {
         System.out.println(isPalindrome("A man, a plan, a canal: Panama"));

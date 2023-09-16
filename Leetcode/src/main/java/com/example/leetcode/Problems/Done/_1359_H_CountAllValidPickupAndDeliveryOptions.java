@@ -1,6 +1,6 @@
-package com.example.leetcode.Problems;
+package com.example.leetcode.Problems.Done;
 
-public class _1359_CountAllValidPickupAndDeliveryOptions {
+public class _1359_H_CountAllValidPickupAndDeliveryOptions {
 
     public static void main(String[] args) {
         System.out.println(countOrders(1));

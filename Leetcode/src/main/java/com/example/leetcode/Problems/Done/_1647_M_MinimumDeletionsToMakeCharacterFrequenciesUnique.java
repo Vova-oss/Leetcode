@@ -1,4 +1,4 @@
-package com.example.leetcode.Problems;
+package com.example.leetcode.Problems.Done;
 
 import java.nio.charset.StandardCharsets;
 import java.util.HashSet;
